@@ -22,7 +22,7 @@
  
  🔭 I’m currently working on **something cool**
  
- 🌱 I’m currently learning **React and Tailwind**
+ 🌱 I’m currently learning **Next.js and TypeScript**
 
 💬 Ask me about anything, **I am happy to help**
 
@@ -34,8 +34,8 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,ts,express,mongodb,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
